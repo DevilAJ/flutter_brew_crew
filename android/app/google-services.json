@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647047893902",
+    "project_id": "soul-brew-crew",
+    "storage_bucket": "soul-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647047893902:android:817b2c9afbbea818cacadf",
+        "android_client_info": {
+          "package_name": "com.soul.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647047893902-rojffjsacgtgoebjo9p6du5o3sleepqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiyF5C3UzBsp9ZO0A3LNqDpB14nD3x3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647047893902-rojffjsacgtgoebjo9p6du5o3sleepqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
